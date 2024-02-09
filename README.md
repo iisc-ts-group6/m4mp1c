@@ -4,8 +4,8 @@ IISC TalentSprint AIMLOps mini project (module 4 mini-project 1 part c)
 
 # useful commands and file
 
-# docker
-# to install docker 
+## docker
+### to install docker 
 sudo apt-get remove docker docker-engine docker.io
 sudo apt-get update
 sudo apt-get upgrade -y
